@@ -1,0 +1,15 @@
+/home/basfeo/Documents/seminar3C#/task21/obj/Debug/net7.0/task21.csproj.AssemblyReference.cache
+/home/basfeo/Documents/seminar3C#/task21/obj/Debug/net7.0/task21.GeneratedMSBuildEditorConfig.editorconfig
+/home/basfeo/Documents/seminar3C#/task21/obj/Debug/net7.0/task21.AssemblyInfoInputs.cache
+/home/basfeo/Documents/seminar3C#/task21/obj/Debug/net7.0/task21.AssemblyInfo.cs
+/home/basfeo/Documents/seminar3C#/task21/obj/Debug/net7.0/task21.csproj.CoreCompileInputs.cache
+/home/basfeo/Documents/seminar3C#/task21/bin/Debug/net7.0/task21
+/home/basfeo/Documents/seminar3C#/task21/bin/Debug/net7.0/task21.deps.json
+/home/basfeo/Documents/seminar3C#/task21/bin/Debug/net7.0/task21.runtimeconfig.json
+/home/basfeo/Documents/seminar3C#/task21/bin/Debug/net7.0/task21.dll
+/home/basfeo/Documents/seminar3C#/task21/bin/Debug/net7.0/task21.pdb
+/home/basfeo/Documents/seminar3C#/task21/obj/Debug/net7.0/task21.dll
+/home/basfeo/Documents/seminar3C#/task21/obj/Debug/net7.0/refint/task21.dll
+/home/basfeo/Documents/seminar3C#/task21/obj/Debug/net7.0/task21.pdb
+/home/basfeo/Documents/seminar3C#/task21/obj/Debug/net7.0/task21.genruntimeconfig.cache
+/home/basfeo/Documents/seminar3C#/task21/obj/Debug/net7.0/ref/task21.dll
