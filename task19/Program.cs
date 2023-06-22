@@ -2,7 +2,7 @@
 Console.WriteLine("Input number!");
 
 
-void CheckPolindrom(int num){
+void CheckPalindrom(int num){
     int rev,sum=0,temp;
     temp = num;
 
@@ -12,15 +12,15 @@ void CheckPolindrom(int num){
         num = num/10;
     }
     if (temp == sum) {
-        Console.WriteLine("Polindom");
+        Console.WriteLine("Palindom");
     }
     else
     {
-        Console.WriteLine("Non polindom");       
+        Console.WriteLine("Non palindom");       
     }
 }
 
 
 int number = Convert.ToInt32(Console.ReadLine());
 
-CheckPolindrom(number);
+CheckPalindrom(number);
